@@ -1,4 +1,4 @@
-
+TunnelBear custom Extension: IKEv2-support & static-IP offers the most advanced TunnelBear extension, with IKEv2-support and static-IP. Ideal for users who value privacy and
 
 
 
